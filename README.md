@@ -8,6 +8,13 @@ User Registration: New users can create an account using their email and passwor
 User Login: Existing users can log in using their registered email and password.
 Firebase Integration: The app utilizes Firebase Authentication to manage user authentication.
 Screenshots
+
+![App Screenshot](https://github.com/Sumit-Sharma-26/Assignment2/blob/master/app/src/main/App%20Screenshots/WhatsApp%20Image%202023-08-16%20at%203.55.14%20AM.jpeg)
+
+![App Screenshot](https://github.com/Sumit-Sharma-26/Assignment2/blob/master/app/src/main/App%20Screenshots/WhatsApp%20Image%202023-08-16%20at%203.55.14%20AM%20(1).jpeg)
+
+![App Screenshot](https://github.com/Sumit-Sharma-26/Assignment2/blob/master/app/src/main/App%20Screenshots/WhatsApp%20Image%202023-08-16%20at%203.55.15%20AM.jpeg)
+
 ![App Screenshot](https://github.com/Sumit-Sharma-26/Assignment2/blob/master/app/src/main/App%20Screenshots/WhatsApp%20Image%202023-08-16%20at%203.55.14%20AM%20(1).jpeg)
 
 <!-- Add relevant screenshots of your app to showcase its functionality -->
